@@ -6,7 +6,7 @@ Profesor:Jorge Ernesto Lopez Arce Delgado
 ## Descripción
 Repositorio de actividades y evidencias desarrolladas durante el curso de
 Programación Estructurada en lenguaje C.
-## Temas trabajado, Ejemplo:
+## Temas trabajados:
 - Tipos de datos
 - Operadores
 - Condicionales
