@@ -4,6 +4,6 @@ Programa que muestra los tipos de datos primitivos el nombre, lugar en la memori
 ## Temas aplicados
 -tipos de datos enteros, flotantes y caracteres
 ## Compilación
-gcc main.c -o tipos-de-datos-angel-ruiz.c
+gcc main.c -o tipos-de-datos-angel-ruiz
 ## Ejecución
-./tipos-de-datos-angel-ruiz.c
+./tipos-de-datos-angel-ruiz
